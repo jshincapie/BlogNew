@@ -22,6 +22,11 @@ box-shadow: 29px -18px 26px 0px rgba(0,0,0,0.75);
 
 }
 
+#logo
+{
+  width:60px;
+}
+
 #container
 {
    width: 70%;
